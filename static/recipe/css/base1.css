@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    color: black;
+}
+.c1{
+    top: 0;
+    height: 31vh;
+    position: relative;
+    background-size: cover;
+}
+.c2{
+    background-size: cover;
+}
+.i1{
+
+    height: inherit;
+    opacity: 0.6;
+    width: 100%;
+}
+.tm-header-inner{
+    background: #00000085;
+}
